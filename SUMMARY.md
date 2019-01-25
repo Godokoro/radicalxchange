@@ -5,6 +5,7 @@
   * [Core Values](radx-foundation/core-values.md)
   * [Governance Principles](radx-foundation/governance-principles.md)
   * [Goals](radx-foundation/goals.md)
+  * [History](radx-foundation/history.md)
 * [Grants](grants/README.md)
   * [Grant Strategy \(draft\)](grants/grant-strategy.md)
   * [Tacticals](grants/tacticals/README.md)
