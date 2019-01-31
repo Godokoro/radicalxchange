@@ -11,5 +11,6 @@
   * [Tacticals](grants/tacticals/README.md)
     * [Grants Tactical 17.01](grants/tacticals/grants-tactical-17.01.md)
     * [Grants Tactical 24.01](grants/tacticals/grants-tactical-24.01.md)
+    * [Grants Tactical 31.01](grants/tacticals/untitled.md)
 * [Meeting Process](meeting-process.md)
 
