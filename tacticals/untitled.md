@@ -1,7 +1,5 @@
 # Grants Tactical 31.01
 
-## 
-
 ## Checklist
 
 * Check-in
