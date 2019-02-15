@@ -14,3 +14,7 @@
 
 ## Agenda
 
+Will to inform Max on the website projects
+
+Max to review the Kauffman request for more info.
+
