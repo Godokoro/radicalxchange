@@ -11,6 +11,7 @@
   * [Grants Tactical 24.01](tacticals/grants-tactical-24.01.md)
   * [Grants Tactical 31.01](tacticals/untitled.md)
   * [Grants Tactical 07.02](tacticals/grants-tactical-07.02.md)
+  * [Grants Tactical 15.02](tacticals/grants-tactical-15.02.md)
 * [Grants](grants/README.md)
   * [Grant Strategy \(draft\)](grants/grant-strategy.md)
   * [Grants FAQ Repository](grants/grants-faq-repository.md)
